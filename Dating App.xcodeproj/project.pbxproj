@@ -14,6 +14,36 @@
 		5B99F8092C10E486007F8342 /* Dating_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B99F8082C10E486007F8342 /* Dating_AppTests.swift */; };
 		5B99F8132C10E486007F8342 /* Dating_AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B99F8122C10E486007F8342 /* Dating_AppUITests.swift */; };
 		5B99F8152C10E486007F8342 /* Dating_AppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B99F8142C10E486007F8342 /* Dating_AppUITestsLaunchTests.swift */; };
+		5B99F82C2C10ECC2007F8342 /* Satoshi-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5B99F8222C10ECC2007F8342 /* Satoshi-Bold.otf */; };
+		5B99F82D2C10ECC2007F8342 /* Satoshi-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5B99F8222C10ECC2007F8342 /* Satoshi-Bold.otf */; };
+		5B99F82E2C10ECC2007F8342 /* Satoshi-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5B99F8222C10ECC2007F8342 /* Satoshi-Bold.otf */; };
+		5B99F82F2C10ECC2007F8342 /* Satoshi-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5B99F8232C10ECC2007F8342 /* Satoshi-Black.otf */; };
+		5B99F8302C10ECC2007F8342 /* Satoshi-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5B99F8232C10ECC2007F8342 /* Satoshi-Black.otf */; };
+		5B99F8312C10ECC2007F8342 /* Satoshi-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5B99F8232C10ECC2007F8342 /* Satoshi-Black.otf */; };
+		5B99F8322C10ECC2007F8342 /* Satoshi-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5B99F8242C10ECC2007F8342 /* Satoshi-Light.otf */; };
+		5B99F8332C10ECC2007F8342 /* Satoshi-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5B99F8242C10ECC2007F8342 /* Satoshi-Light.otf */; };
+		5B99F8342C10ECC2007F8342 /* Satoshi-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5B99F8242C10ECC2007F8342 /* Satoshi-Light.otf */; };
+		5B99F8352C10ECC2007F8342 /* Satoshi-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5B99F8252C10ECC2007F8342 /* Satoshi-Medium.otf */; };
+		5B99F8362C10ECC2007F8342 /* Satoshi-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5B99F8252C10ECC2007F8342 /* Satoshi-Medium.otf */; };
+		5B99F8372C10ECC2007F8342 /* Satoshi-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5B99F8252C10ECC2007F8342 /* Satoshi-Medium.otf */; };
+		5B99F8382C10ECC2007F8342 /* Satoshi-Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5B99F8262C10ECC2007F8342 /* Satoshi-Italic.otf */; };
+		5B99F8392C10ECC2007F8342 /* Satoshi-Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5B99F8262C10ECC2007F8342 /* Satoshi-Italic.otf */; };
+		5B99F83A2C10ECC2007F8342 /* Satoshi-Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5B99F8262C10ECC2007F8342 /* Satoshi-Italic.otf */; };
+		5B99F83B2C10ECC2007F8342 /* Satoshi-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5B99F8272C10ECC2007F8342 /* Satoshi-Regular.otf */; };
+		5B99F83C2C10ECC2007F8342 /* Satoshi-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5B99F8272C10ECC2007F8342 /* Satoshi-Regular.otf */; };
+		5B99F83D2C10ECC2007F8342 /* Satoshi-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5B99F8272C10ECC2007F8342 /* Satoshi-Regular.otf */; };
+		5B99F83E2C10ECC2007F8342 /* Satoshi-MediumItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5B99F8282C10ECC2007F8342 /* Satoshi-MediumItalic.otf */; };
+		5B99F83F2C10ECC2007F8342 /* Satoshi-MediumItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5B99F8282C10ECC2007F8342 /* Satoshi-MediumItalic.otf */; };
+		5B99F8402C10ECC2007F8342 /* Satoshi-MediumItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5B99F8282C10ECC2007F8342 /* Satoshi-MediumItalic.otf */; };
+		5B99F8412C10ECC2007F8342 /* Satoshi-LightItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5B99F8292C10ECC2007F8342 /* Satoshi-LightItalic.otf */; };
+		5B99F8422C10ECC2007F8342 /* Satoshi-LightItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5B99F8292C10ECC2007F8342 /* Satoshi-LightItalic.otf */; };
+		5B99F8432C10ECC2007F8342 /* Satoshi-LightItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5B99F8292C10ECC2007F8342 /* Satoshi-LightItalic.otf */; };
+		5B99F8442C10ECC2007F8342 /* Satoshi-BlackItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5B99F82A2C10ECC2007F8342 /* Satoshi-BlackItalic.otf */; };
+		5B99F8452C10ECC2007F8342 /* Satoshi-BlackItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5B99F82A2C10ECC2007F8342 /* Satoshi-BlackItalic.otf */; };
+		5B99F8462C10ECC2007F8342 /* Satoshi-BlackItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5B99F82A2C10ECC2007F8342 /* Satoshi-BlackItalic.otf */; };
+		5B99F8472C10ECC2007F8342 /* Satoshi-BoldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5B99F82B2C10ECC2007F8342 /* Satoshi-BoldItalic.otf */; };
+		5B99F8482C10ECC2007F8342 /* Satoshi-BoldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5B99F82B2C10ECC2007F8342 /* Satoshi-BoldItalic.otf */; };
+		5B99F8492C10ECC2007F8342 /* Satoshi-BoldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5B99F82B2C10ECC2007F8342 /* Satoshi-BoldItalic.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +74,17 @@
 		5B99F80E2C10E486007F8342 /* Dating AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Dating AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5B99F8122C10E486007F8342 /* Dating_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dating_AppUITests.swift; sourceTree = "<group>"; };
 		5B99F8142C10E486007F8342 /* Dating_AppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dating_AppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		5B99F8222C10ECC2007F8342 /* Satoshi-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Satoshi-Bold.otf"; sourceTree = "<group>"; };
+		5B99F8232C10ECC2007F8342 /* Satoshi-Black.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Satoshi-Black.otf"; sourceTree = "<group>"; };
+		5B99F8242C10ECC2007F8342 /* Satoshi-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Satoshi-Light.otf"; sourceTree = "<group>"; };
+		5B99F8252C10ECC2007F8342 /* Satoshi-Medium.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Satoshi-Medium.otf"; sourceTree = "<group>"; };
+		5B99F8262C10ECC2007F8342 /* Satoshi-Italic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Satoshi-Italic.otf"; sourceTree = "<group>"; };
+		5B99F8272C10ECC2007F8342 /* Satoshi-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Satoshi-Regular.otf"; sourceTree = "<group>"; };
+		5B99F8282C10ECC2007F8342 /* Satoshi-MediumItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Satoshi-MediumItalic.otf"; sourceTree = "<group>"; };
+		5B99F8292C10ECC2007F8342 /* Satoshi-LightItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Satoshi-LightItalic.otf"; sourceTree = "<group>"; };
+		5B99F82A2C10ECC2007F8342 /* Satoshi-BlackItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Satoshi-BlackItalic.otf"; sourceTree = "<group>"; };
+		5B99F82B2C10ECC2007F8342 /* Satoshi-BoldItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Satoshi-BoldItalic.otf"; sourceTree = "<group>"; };
+		5B99F84A2C10EDDF007F8342 /* Dating-App-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "Dating-App-Info.plist"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +135,8 @@
 		5B99F7F62C10E484007F8342 /* Dating App */ = {
 			isa = PBXGroup;
 			children = (
+				5B99F84A2C10EDDF007F8342 /* Dating-App-Info.plist */,
+				5B99F8212C10EC7F007F8342 /* Font */,
 				5B99F7F72C10E484007F8342 /* Dating_AppApp.swift */,
 				5B99F7F92C10E484007F8342 /* ContentView.swift */,
 				5B99F7FB2C10E486007F8342 /* Assets.xcassets */,
@@ -125,6 +168,23 @@
 				5B99F8142C10E486007F8342 /* Dating_AppUITestsLaunchTests.swift */,
 			);
 			path = "Dating AppUITests";
+			sourceTree = "<group>";
+		};
+		5B99F8212C10EC7F007F8342 /* Font */ = {
+			isa = PBXGroup;
+			children = (
+				5B99F8232C10ECC2007F8342 /* Satoshi-Black.otf */,
+				5B99F82A2C10ECC2007F8342 /* Satoshi-BlackItalic.otf */,
+				5B99F8222C10ECC2007F8342 /* Satoshi-Bold.otf */,
+				5B99F82B2C10ECC2007F8342 /* Satoshi-BoldItalic.otf */,
+				5B99F8262C10ECC2007F8342 /* Satoshi-Italic.otf */,
+				5B99F8242C10ECC2007F8342 /* Satoshi-Light.otf */,
+				5B99F8292C10ECC2007F8342 /* Satoshi-LightItalic.otf */,
+				5B99F8252C10ECC2007F8342 /* Satoshi-Medium.otf */,
+				5B99F8282C10ECC2007F8342 /* Satoshi-MediumItalic.otf */,
+				5B99F8272C10ECC2007F8342 /* Satoshi-Regular.otf */,
+			);
+			path = Font;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -231,7 +291,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5B99F82C2C10ECC2007F8342 /* Satoshi-Bold.otf in Resources */,
+				5B99F82F2C10ECC2007F8342 /* Satoshi-Black.otf in Resources */,
+				5B99F8352C10ECC2007F8342 /* Satoshi-Medium.otf in Resources */,
+				5B99F8442C10ECC2007F8342 /* Satoshi-BlackItalic.otf in Resources */,
+				5B99F8382C10ECC2007F8342 /* Satoshi-Italic.otf in Resources */,
+				5B99F8412C10ECC2007F8342 /* Satoshi-LightItalic.otf in Resources */,
+				5B99F83B2C10ECC2007F8342 /* Satoshi-Regular.otf in Resources */,
 				5B99F7FF2C10E486007F8342 /* Preview Assets.xcassets in Resources */,
+				5B99F8472C10ECC2007F8342 /* Satoshi-BoldItalic.otf in Resources */,
+				5B99F83E2C10ECC2007F8342 /* Satoshi-MediumItalic.otf in Resources */,
+				5B99F8322C10ECC2007F8342 /* Satoshi-Light.otf in Resources */,
 				5B99F7FC2C10E486007F8342 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -240,6 +310,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5B99F82D2C10ECC2007F8342 /* Satoshi-Bold.otf in Resources */,
+				5B99F8452C10ECC2007F8342 /* Satoshi-BlackItalic.otf in Resources */,
+				5B99F83F2C10ECC2007F8342 /* Satoshi-MediumItalic.otf in Resources */,
+				5B99F8302C10ECC2007F8342 /* Satoshi-Black.otf in Resources */,
+				5B99F83C2C10ECC2007F8342 /* Satoshi-Regular.otf in Resources */,
+				5B99F8422C10ECC2007F8342 /* Satoshi-LightItalic.otf in Resources */,
+				5B99F8482C10ECC2007F8342 /* Satoshi-BoldItalic.otf in Resources */,
+				5B99F8362C10ECC2007F8342 /* Satoshi-Medium.otf in Resources */,
+				5B99F8392C10ECC2007F8342 /* Satoshi-Italic.otf in Resources */,
+				5B99F8332C10ECC2007F8342 /* Satoshi-Light.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -247,6 +327,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5B99F82E2C10ECC2007F8342 /* Satoshi-Bold.otf in Resources */,
+				5B99F8462C10ECC2007F8342 /* Satoshi-BlackItalic.otf in Resources */,
+				5B99F8402C10ECC2007F8342 /* Satoshi-MediumItalic.otf in Resources */,
+				5B99F8312C10ECC2007F8342 /* Satoshi-Black.otf in Resources */,
+				5B99F83D2C10ECC2007F8342 /* Satoshi-Regular.otf in Resources */,
+				5B99F8432C10ECC2007F8342 /* Satoshi-LightItalic.otf in Resources */,
+				5B99F8492C10ECC2007F8342 /* Satoshi-BoldItalic.otf in Resources */,
+				5B99F8372C10ECC2007F8342 /* Satoshi-Medium.otf in Resources */,
+				5B99F83A2C10ECC2007F8342 /* Satoshi-Italic.otf in Resources */,
+				5B99F8342C10ECC2007F8342 /* Satoshi-Light.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -425,6 +515,7 @@
 				DEVELOPMENT_TEAM = 869XHSP27F;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Dating-App-Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -454,6 +545,7 @@
 				DEVELOPMENT_TEAM = 869XHSP27F;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Dating-App-Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
